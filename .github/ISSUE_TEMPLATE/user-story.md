@@ -1,20 +1,4 @@
----
-name: User Story
-about: To write a user story for the requitments
-title: ''
-labels: ''
-assignees: ''
 
----
-
----
-name: User Story
-about: To use it to make user stories for the customer requirements
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **As a** [role]  
  **I need** [function]  
