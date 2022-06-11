@@ -1,4 +1,11 @@
+---
+name: User Story
+about: User stories to represent the requirments
+title: ''
+labels: ''
+assignees: ''
 
+---
 
 **As a** [role]  
  **I need** [function]  
